@@ -1,2 +1,2 @@
 # AMATH582_Homeworks
-A collection of assignments from AMATH582 class. 
+A collection of assignments from class AMATH582. 
